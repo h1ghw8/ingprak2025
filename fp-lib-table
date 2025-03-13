@@ -1,4 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "get-started")(type "KiCad")(uri "${KIPRJMOD}/get-started.pretty")(options "")(descr ""))
-)
